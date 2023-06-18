@@ -1,5 +1,5 @@
 # London_Airbnb_Analysis
-SQL analysis of London Airbnb's
+SQL analysis of London Airbnbs
 
 London Airbnb's offer a diverse and vibrant accommodation experience in one of the world's most iconic cities. With a wide range of options available, from cozy apartments in trendy neighborhoods to stylish townhouses in historic areas, there is something to suit every traveler's taste. Staying in a London Airbnb allows visitors to immerse themselves in the local culture, explore hidden gems, and enjoy the convenience of well-equipped accommodations. From the buzzing streets of Soho to the picturesque charm of Notting Hill, these Airbnb's provide a unique opportunity to live like a local while enjoying the comfort and flexibility of a home away from home. Whether it's for a weekend getaway or an extended stay, London Airbnb's offer an inviting and personalized stay experience for travelers seeking an authentic London adventure.
 
